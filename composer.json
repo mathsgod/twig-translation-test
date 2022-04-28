@@ -1,0 +1,14 @@
+{
+    "name": "mathsgod/twig-translation-test",
+    "authors": [
+        {
+            "name": "Raymond Chong",
+            "email": "mathsgod@yahoo.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3",
+        "twig/extra-bundle": "^3.3",
+        "symfony/translation": "^6.0"
+    }
+}
